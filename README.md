@@ -1,4 +1,6 @@
-# Sudan humanitarian crisis analysis - Dashboard in Power BI - https://app.powerbi.com/view?r=eyJrIjoiNjQxZjdmYjctZjM5OC00OTc5LTg3ZWEtM2NlODkzZDFmOTI1IiwidCI6ImFhMjRkMzA4LTBkOWUtNDY5NS1hMjZmLTc1NDU5NDM0MmUxYiIsImMiOjl9
+# Sudan humanitarian crisis analysis - Dashboard in Power BI 
+
+https://app.powerbi.com/view?r=eyJrIjoiNjQxZjdmYjctZjM5OC00OTc5LTg3ZWEtM2NlODkzZDFmOTI1IiwidCI6ImFhMjRkMzA4LTBkOWUtNDY5NS1hMjZmLTc1NDU5NDM0MmUxYiIsImMiOjl9
 
 💡 In this dashboard, we explore different dimensions of the *humanitarian* crisis in Sudan using data from 2023 and 2024. Specifically, it presents data on *internally displaced persons* due to armed conflict, asylum applications filed by Sudanese citizens abroad, responses to asylum requests from Sudanese populations, and irregular migration of Sudanese individuals to Europe.
 
