@@ -28,4 +28,3 @@ https://api.unhcr.org/docs/refugee-statistics.html
 
 6️⃣ Finally, a table containing the current population data of Sudan is manually incorporated to calculate percentages based on this data in the report.
   👉Data from: https://worldpopulationreview.com/countries/sudan
-
