@@ -24,6 +24,7 @@ https://api.unhcr.org/docs/refugee-statistics.html
 
 5️⃣ To construct the shape map, a topoJSON file containing the districts of Sudan (second-level administrative borders) is incorporated.
   👉You can find it at this repo: visuals/Sudan.json
+  👀The original version came from: https://geoportal.icpac.net/layers/geonode:sudan_admin_leve2/metadata_detail
 
 6️⃣ Finally, a table containing the current population data of Sudan is manually incorporated to calculate percentages based on this data in the report.
   👉Data from: https://worldpopulationreview.com/countries/sudan
